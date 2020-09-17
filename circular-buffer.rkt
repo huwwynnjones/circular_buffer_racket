@@ -52,6 +52,3 @@
     (if (= remainder 0)
         (- buffer-length 1)
         (- remainder 1))))
-
-
-        
